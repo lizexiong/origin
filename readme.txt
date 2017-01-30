@@ -6,3 +6,4 @@ This is a TestFile! 5
 This is a TestFile! 6
 branch test
 master branch test
+--no-ff
