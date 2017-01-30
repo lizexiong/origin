@@ -7,3 +7,4 @@ This is a TestFile! 6
 branch test
 master branch test
 --no-ff
+bug test02
